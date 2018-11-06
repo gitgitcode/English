@@ -4,7 +4,31 @@
 - While the saying goes that “No news is good news,” in the case of Apple it turns out that “News about no news is bad news.” From Bloomberg:
 - 俗话说，‘没有小消息就是好消息’ ，在苹果公司这里它转为了“没有消息的消息是坏消息” 来自彭博的报道。
 
-Apple Inc. shares had their worst day since 2014 amid concerns that growth in its powerhouse product, the iPhone, is slowing. In the fiscal fourth quarter, Apple said iPhone unit sales barely grew from a year earlier, even though new flagship devices came out in the period. At the same time, Apple said it would stop providing unit sales for iPhones, iPads, and Macs in fiscal 2019, a step toward becoming more of a services business. While some pundits praised the move as a way to highlight a potent new business model, many analysts complained it was an attempt to hide the pain of a stagnant smartphone market.
+Apple Inc. shares had their worst  day since 2014 amid concerns  that growth in its powerhouse product, the iPhone, is slowing. In the fiscal fourth quarter, Apple said iPhone unit sales barely grew from a year earlier, even though new flagship devices came out in the period . At the same time, Apple said it would stop providing  unit sales for iPhones, iPads, and Macs in fiscal 2019, a step toward becoming more of a services business. While some pundits praised the move as a way to highlight a potent new business model, many analysts  complained it was an attempt  to hide the pain of a stagnant  smartphone market.
+  
+    - （abbr. 股份有限公司（incorporated /ɪn'kɔrpə'retɪd/ ））
+    - worst(/wɜːst/ adj. 最坏的, 最差的)
+    - amid（/ə'mɪd/ prep. 在其中，在其间）
+    - concerns（/kən'sə:n/ 关注；关注点；关注者）
+    -  powerhouse（ /'paʊəhaʊs/ n. 强大的集团〔组织〕精力充沛的人;身强力壮的人）
+    - fiscal（/'fɪsk(ə)l/ adj. 国库的；会计的，财政的）
+    -  unit（ /'juːnɪt/ n. (工作)单位）
+    - barely（/'bɛrli/ adv. 仅仅，勉强；几乎不；公开地；贫乏地）
+    - earlier（/'ɝlɪr/ adj. 早的；初期的 adv. 早地；早先的时候）
+    - though（/ðo/ adv. 可是，虽然；然而；不过）
+    - flagship （/'flæɡʃɪp/ n. 旗舰；佼佼者 （作定语）一流）
+    - period（/'pɪrɪəd/ n. (一段)时间 时期, 时代）
+    - providing（/prə'vaɪd/ vt. 规定；提供；准备；装备）
+    - toward（/tɔrd/ prep. 向；对于；为了；接近）
+    - services(/'sə:visis/ n. 服务；服务项目（service复数形式）) 
+    - pundits(/'pʌndɪt/ n. 某一学科的权威;专家) 
+    - praised(/prez/ v. 称赞，表扬（praise的过去分词）)
+    - potent( /'potnt/ adj. 有效的；强有力的，有权势的；有说服力的)
+    - analysts(/'ænəlist/ n. 分析家；分析师；分析员（analyst的复数）) 
+    - complained (/kəm'plen/ vi. 发牢骚；投诉；诉说)
+    - attempt(/ə'tɛmpt/vt. 试图; 尝试) 
+    - stagnant( /'stægnənt/ adj. 停滞的；污浊的；不景气的；迟钝的) 
+- 苹果公司股价迎来了他们自2014中期以来最差的一天，由于市场担心他们的核心产品，iphone 销售缓慢。今天第四季财报，苹果表示iphone销量较年初有有小量增长，即便此时新的旗舰机型已经发售。同时，苹果还表示，2019财报中将不会提供iPhones, iPads, and Macs的单位销量，公司将进一步像服务型公司转型。虽然一些权威人事赞扬这是一种强调新模式的方式，但许多分析师抱怨这是在试图掩盖智能机市场的不景气的痛苦。
 
 Apple has long been an exception in the smartphone space when it comes to reporting unit sales, so deciding not to is not that out of the ordinary; Apple, though, has always positioned itself as the extraordinary alternative — the best — and that approach paid off for years with sales numbers that were worth bragging about.
 
