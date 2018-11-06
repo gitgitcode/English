@@ -1,6 +1,8 @@
-[Apple’s Social Network](https://stratechery.com/2018/apples-social-network/)
+# [Apple’s Social Network](https://stratechery.com/2018/apples-social-network/)
+# 苹果公司的社交网络
 
-While the saying goes that “No news is good news,” in the case of Apple it turns out that “News about no news is bad news.” From Bloomberg:
+- While the saying goes that “No news is good news,” in the case of Apple it turns out that “News about no news is bad news.” From Bloomberg:
+- 俗话说，‘没有小消息就是好消息’ ，在苹果公司这里它转为了“没有消息的消息是坏消息” 来自彭博的报道。
 
 Apple Inc. shares had their worst day since 2014 amid concerns that growth in its powerhouse product, the iPhone, is slowing. In the fiscal fourth quarter, Apple said iPhone unit sales barely grew from a year earlier, even though new flagship devices came out in the period. At the same time, Apple said it would stop providing unit sales for iPhones, iPads, and Macs in fiscal 2019, a step toward becoming more of a services business. While some pundits praised the move as a way to highlight a potent new business model, many analysts complained it was an attempt to hide the pain of a stagnant smartphone market.
 
